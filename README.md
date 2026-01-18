@@ -1,6 +1,6 @@
 # Analiza-danych
 
-Badanie dotyczy analizy ilości i wartości grzybów oraz owoców leśnych w Polsce w latach 2020-2024.  
+Badanie dotyczy analizy ilości i wartości grzybów oraz owoców leśnych w Polsce w latach 2016-2020.  
 Celem jest określenie różnic między województwami oraz zmian w czasie w poszczególnych regionach, a także identyfikacja czynników wpływających na te zróżnicowanie. 
 
 Wykorzystywane dane pochodzą z Banku Danych Lokalnych GUS.
